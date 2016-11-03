@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Biljettbokning.Event">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAQAAEAAAAAAA=</HashCode>
+      <FileName>Events\Event.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biljettbokning.Consert">
+    <Position X="10" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAACAABAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Events\Consert.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biljettbokning.Movie">
+    <Position X="3" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEBAAAABAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Events\Movie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biljettbokning.Festival">
+    <Position X="6.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAEAAAAAAAAAAAAAAAAAAAAAQAAAAAAAACA=</HashCode>
+      <FileName>Events\Festival.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biljettbokning.Runtime" Collapsed="true">
+    <Position X="8.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Program\Runtime.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

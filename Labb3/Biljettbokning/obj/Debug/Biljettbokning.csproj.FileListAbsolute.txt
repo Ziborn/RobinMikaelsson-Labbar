@@ -1,0 +1,6 @@
+c:\users\anders\documents\visual studio 2015\Projects\Biljettbokning\Biljettbokning\bin\Debug\Biljettbokning.exe.config
+c:\users\anders\documents\visual studio 2015\Projects\Biljettbokning\Biljettbokning\bin\Debug\Biljettbokning.exe
+c:\users\anders\documents\visual studio 2015\Projects\Biljettbokning\Biljettbokning\bin\Debug\Biljettbokning.pdb
+c:\users\anders\documents\visual studio 2015\Projects\Biljettbokning\Biljettbokning\obj\Debug\Biljettbokning.csprojResolveAssemblyReference.cache
+c:\users\anders\documents\visual studio 2015\Projects\Biljettbokning\Biljettbokning\obj\Debug\Biljettbokning.exe
+c:\users\anders\documents\visual studio 2015\Projects\Biljettbokning\Biljettbokning\obj\Debug\Biljettbokning.pdb
