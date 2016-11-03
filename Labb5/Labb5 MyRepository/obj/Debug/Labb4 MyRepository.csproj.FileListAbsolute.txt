@@ -1,0 +1,6 @@
+c:\users\anders\documents\visual studio 2015\Projects\Labb4 MyRepository\Labb4 MyRepository\bin\Debug\Labb4 MyRepository.exe.config
+c:\users\anders\documents\visual studio 2015\Projects\Labb4 MyRepository\Labb4 MyRepository\obj\Debug\Labb4 MyRepository.csprojResolveAssemblyReference.cache
+c:\users\anders\documents\visual studio 2015\Projects\Labb4 MyRepository\Labb4 MyRepository\bin\Debug\Labb4 MyRepository.exe
+c:\users\anders\documents\visual studio 2015\Projects\Labb4 MyRepository\Labb4 MyRepository\bin\Debug\Labb4 MyRepository.pdb
+c:\users\anders\documents\visual studio 2015\Projects\Labb4 MyRepository\Labb4 MyRepository\obj\Debug\Labb4 MyRepository.exe
+c:\users\anders\documents\visual studio 2015\Projects\Labb4 MyRepository\Labb4 MyRepository\obj\Debug\Labb4 MyRepository.pdb
