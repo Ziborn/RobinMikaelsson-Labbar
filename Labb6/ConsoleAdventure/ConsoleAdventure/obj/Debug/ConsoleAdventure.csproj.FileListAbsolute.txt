@@ -1,0 +1,6 @@
+c:\users\anders\documents\visual studio 2015\Projects\ConsoleAdventure\ConsoleAdventure\bin\Debug\ConsoleAdventure.exe.config
+c:\users\anders\documents\visual studio 2015\Projects\ConsoleAdventure\ConsoleAdventure\bin\Debug\ConsoleAdventure.exe
+c:\users\anders\documents\visual studio 2015\Projects\ConsoleAdventure\ConsoleAdventure\bin\Debug\ConsoleAdventure.pdb
+c:\users\anders\documents\visual studio 2015\Projects\ConsoleAdventure\ConsoleAdventure\obj\Debug\ConsoleAdventure.csprojResolveAssemblyReference.cache
+c:\users\anders\documents\visual studio 2015\Projects\ConsoleAdventure\ConsoleAdventure\obj\Debug\ConsoleAdventure.exe
+c:\users\anders\documents\visual studio 2015\Projects\ConsoleAdventure\ConsoleAdventure\obj\Debug\ConsoleAdventure.pdb
