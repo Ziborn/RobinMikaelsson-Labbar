@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Bosses_bilar_och_bågar.Cars">
+    <Position X="4.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAABQAAAAAAAAAAAAAAAAAAAACAAAgAgAAAgAA=</HashCode>
+      <FileName>Cars\Cars.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bosses_bilar_och_bågar.Bikes">
+    <Position X="9" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAABQAAAAAQAAAAAAAAAAAAAACAAAgAgAAAAAA=</HashCode>
+      <FileName>Bikes\Bikes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bosses_bilar_och_bågar.NewCar">
+    <Position X="3.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cars\NewCar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bosses_bilar_och_bågar.OldCar">
+    <Position X="5.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cars\OldCar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bosses_bilar_och_bågar.NewBike">
+    <Position X="7.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Bikes\NewBike.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bosses_bilar_och_bågar.OldBike">
+    <Position X="10.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bikes\OldBike.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bosses_bilar_och_bågar.Runtime">
+    <Position X="12.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Program\Runtime.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bosses_bilar_och_bågar.Menus">
+    <Position X="12.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAQAAAAAAAQIAIAAAQAAAA=</HashCode>
+      <FileName>Program\Menus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bosses_bilar_och_bågar.Vehiclemanager" Collapsed="true">
+    <Position X="12.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAACAQAEAAAAQAIAAQBAAIAAACCBIQAAHAAAAAAQAAA=</HashCode>
+      <FileName>Program\Vehiclemanager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
