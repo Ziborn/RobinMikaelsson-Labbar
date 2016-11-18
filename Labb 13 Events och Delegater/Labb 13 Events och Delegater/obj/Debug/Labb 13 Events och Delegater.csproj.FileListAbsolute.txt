@@ -1,0 +1,6 @@
+c:\users\anders\documents\visual studio 2015\Projects\Labb 13 Events och Delegater\Labb 13 Events och Delegater\bin\Debug\Labb 13 Events och Delegater.exe.config
+c:\users\anders\documents\visual studio 2015\Projects\Labb 13 Events och Delegater\Labb 13 Events och Delegater\bin\Debug\Labb 13 Events och Delegater.exe
+c:\users\anders\documents\visual studio 2015\Projects\Labb 13 Events och Delegater\Labb 13 Events och Delegater\bin\Debug\Labb 13 Events och Delegater.pdb
+c:\users\anders\documents\visual studio 2015\Projects\Labb 13 Events och Delegater\Labb 13 Events och Delegater\obj\Debug\Labb 13 Events och Delegater.csprojResolveAssemblyReference.cache
+c:\users\anders\documents\visual studio 2015\Projects\Labb 13 Events och Delegater\Labb 13 Events och Delegater\obj\Debug\Labb 13 Events och Delegater.exe
+c:\users\anders\documents\visual studio 2015\Projects\Labb 13 Events och Delegater\Labb 13 Events och Delegater\obj\Debug\Labb 13 Events och Delegater.pdb
