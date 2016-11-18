@@ -1,0 +1,6 @@
+c:\users\anders\documents\visual studio 2015\Projects\Labb 10 Delegater\Labb 10 Delegater\bin\Debug\Labb 10 Delegater.exe.config
+c:\users\anders\documents\visual studio 2015\Projects\Labb 10 Delegater\Labb 10 Delegater\bin\Debug\Labb 10 Delegater.exe
+c:\users\anders\documents\visual studio 2015\Projects\Labb 10 Delegater\Labb 10 Delegater\bin\Debug\Labb 10 Delegater.pdb
+c:\users\anders\documents\visual studio 2015\Projects\Labb 10 Delegater\Labb 10 Delegater\obj\Debug\Labb 10 Delegater.csprojResolveAssemblyReference.cache
+c:\users\anders\documents\visual studio 2015\Projects\Labb 10 Delegater\Labb 10 Delegater\obj\Debug\Labb 10 Delegater.exe
+c:\users\anders\documents\visual studio 2015\Projects\Labb 10 Delegater\Labb 10 Delegater\obj\Debug\Labb 10 Delegater.pdb

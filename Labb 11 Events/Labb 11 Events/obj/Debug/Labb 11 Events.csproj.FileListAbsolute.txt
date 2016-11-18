@@ -1,0 +1,6 @@
+c:\users\anders\documents\visual studio 2015\Projects\Labb 11 Events\Labb 11 Events\bin\Debug\Labb 11 Events.exe.config
+c:\users\anders\documents\visual studio 2015\Projects\Labb 11 Events\Labb 11 Events\bin\Debug\Labb 11 Events.exe
+c:\users\anders\documents\visual studio 2015\Projects\Labb 11 Events\Labb 11 Events\bin\Debug\Labb 11 Events.pdb
+c:\users\anders\documents\visual studio 2015\Projects\Labb 11 Events\Labb 11 Events\obj\Debug\Labb 11 Events.csprojResolveAssemblyReference.cache
+c:\users\anders\documents\visual studio 2015\Projects\Labb 11 Events\Labb 11 Events\obj\Debug\Labb 11 Events.exe
+c:\users\anders\documents\visual studio 2015\Projects\Labb 11 Events\Labb 11 Events\obj\Debug\Labb 11 Events.pdb
