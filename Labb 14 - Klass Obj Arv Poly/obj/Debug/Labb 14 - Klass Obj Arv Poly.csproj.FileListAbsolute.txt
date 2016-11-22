@@ -1,0 +1,6 @@
+c:\users\anders\documents\visual studio 2015\Projects\Labb 14 - Klass Obj Arv Poly\Labb 14 - Klass Obj Arv Poly\bin\Debug\Labb 14 - Klass Obj Arv Poly.exe.config
+C:\Users\Anders\Documents\Visual Studio 2015\Projects\Labb 14 - Klass Obj Arv Poly\Labb 14 - Klass Obj Arv Poly\bin\Debug\Labb 14 - Klass Obj Arv Poly.exe
+C:\Users\Anders\Documents\Visual Studio 2015\Projects\Labb 14 - Klass Obj Arv Poly\Labb 14 - Klass Obj Arv Poly\bin\Debug\Labb 14 - Klass Obj Arv Poly.pdb
+C:\Users\Anders\Documents\Visual Studio 2015\Projects\Labb 14 - Klass Obj Arv Poly\Labb 14 - Klass Obj Arv Poly\obj\Debug\Labb 14 - Klass Obj Arv Poly.csprojResolveAssemblyReference.cache
+C:\Users\Anders\Documents\Visual Studio 2015\Projects\Labb 14 - Klass Obj Arv Poly\Labb 14 - Klass Obj Arv Poly\obj\Debug\Labb 14 - Klass Obj Arv Poly.exe
+C:\Users\Anders\Documents\Visual Studio 2015\Projects\Labb 14 - Klass Obj Arv Poly\Labb 14 - Klass Obj Arv Poly\obj\Debug\Labb 14 - Klass Obj Arv Poly.pdb
