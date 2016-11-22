@@ -1,0 +1,6 @@
+c:\users\anders\documents\visual studio 2015\Projects\Labb 15 Interface\Labb 15 Interface\bin\Debug\Labb 15 Interface.exe.config
+c:\users\anders\documents\visual studio 2015\Projects\Labb 15 Interface\Labb 15 Interface\bin\Debug\Labb 15 Interface.exe
+c:\users\anders\documents\visual studio 2015\Projects\Labb 15 Interface\Labb 15 Interface\bin\Debug\Labb 15 Interface.pdb
+c:\users\anders\documents\visual studio 2015\Projects\Labb 15 Interface\Labb 15 Interface\obj\Debug\Labb 15 Interface.csprojResolveAssemblyReference.cache
+c:\users\anders\documents\visual studio 2015\Projects\Labb 15 Interface\Labb 15 Interface\obj\Debug\Labb 15 Interface.exe
+c:\users\anders\documents\visual studio 2015\Projects\Labb 15 Interface\Labb 15 Interface\obj\Debug\Labb 15 Interface.pdb
